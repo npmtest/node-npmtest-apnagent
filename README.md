@@ -1,6 +1,6 @@
 # npmtest-apnagent
 
-#### basic test coverage for  [apnagent (v1.1.3)](http://apnagent.qualiancy.com)  [![npm package](https://img.shields.io/npm/v/npmtest-apnagent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-apnagent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-apnagent.svg)](https://travis-ci.org/npmtest/node-npmtest-apnagent)
+#### basic test-coverage for  [apnagent (v1.1.3)](http://apnagent.qualiancy.com)  [![npm package](https://img.shields.io/npm/v/npmtest-apnagent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-apnagent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-apnagent.svg)](https://travis-ci.org/npmtest/node-npmtest-apnagent)
 
 #### Node adapter for Apple Push Notification (APN) service.
 
@@ -102,7 +102,8 @@
         "serve": "serve -L -D --compress docs/out",
         "test": "make test"
     },
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "bin": {}
 }
 ```
 
